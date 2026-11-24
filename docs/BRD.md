@@ -138,11 +138,11 @@ Detailed DAX formulas are documented in `dax_measures.md`.
 
 The dashboard is accepted when:
 
-- [ ] all four pages are built and match the requirements above,
-- [ ] every KPI uses the agreed definition,
-- [ ] headline KPIs reconcile with the source data (see `testing_checklist.md`),
-- [ ] slicers, drill-through and bookmarks work as described,
-- [ ] known limitations are documented in the README.
+- [ ] All four pages are built and match the requirements above.
+- [ ] Every KPI uses the agreed definition.
+- [ ] Headline KPIs reconcile with the source data (see `testing_checklist.md`).
+- [ ] Slicers, drill-through and bookmarks work as described.
+- [ ] Known limitations are documented in the README.
 
 ## 14. Deliverables
 
