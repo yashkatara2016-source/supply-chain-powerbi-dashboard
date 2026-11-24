@@ -138,8 +138,8 @@ The dashboard is accepted when:
 
 - [ ] All visuals listed in section 8 are built.
 - [ ] OT % and IF % follow the definitions in section 7.
-      Hheadline KPIs match an independent calculation (see `testing_checklist.md`).
-      Tthe Product Category slicer filters all visuals.
+      Headline KPIs match an independent calculation (see `testing_checklist.md`).
+      The Product Category slicer filters all visuals.
 - [ ] Known limitations are documented in the README.
 
 ## 14. Deliverables
