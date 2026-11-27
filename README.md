@@ -72,7 +72,7 @@ All measures, field mapping and validation steps are documented in [`dax_measure
 > Numbers marked with ~ are read from chart labels. Check them by hovering over the visuals and correct if needed. Fill the `[ ]` items from your dashboard.
 
 1. Out of **100 orders**, **67%** are delivered on time and **53%** in full, so roughly one in three orders is late and nearly half are not delivered in full.
-2. **East** has the highest In-Full % (~100%), while **South** has the lowest (~[32]%).
+2.  **South** has the lowest (~[32]%).
 3. By transport mode, **Truck** has the largest share (**38.85%**), followed by **Ship** (**33.83%**) and **Air** (**27.32%**).
 4. Average delay is [X] days overall, and it is similar across warehouses: **Chennai** is about **85.7%** of the level of the highest warehouse (Bangalore).
 5. Delivered quantity is about **3.2K** against **3.3K** ordered, a gap of only about 3% of units. The In-Full gap at order level (47% of orders) therefore comes from many small shortfalls rather than a few large ones. [Confirm this against how your `IF` flag is defined.]
